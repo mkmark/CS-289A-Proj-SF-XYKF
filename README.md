@@ -5,7 +5,7 @@ UCB CS 289A Project S Final XYKF
 | Name           | Email Address            |
 |----------------|--------------------------|
 | Ke Ma          |                          |
-| Fengzhe Shi    |                          |
+| Fengzhe Shi    | schweini@berkeley.edu    |
 | Xin Chen       | chenxin0210@berkeley.edu |
 | Yun Yeong Choi |                          |
 ## Overview
