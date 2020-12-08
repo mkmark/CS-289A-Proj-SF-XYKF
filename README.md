@@ -7,7 +7,7 @@ UCB CS 289A Project S Final XYKF
 | Ke Ma          | kema@berkeley.edu        |
 | Fengzhe Shi    | schweini@berkeley.edu    |
 | Xin Chen       | chenxin0210@berkeley.edu |
-| Yun Yeong Choi |                          |
+| Yun Yeong Choi | yychoi94@berkeley.edu                         |
 ## Overview
 With the purpose of developing a prediction model of stellar bodies, we performed a learning process with several models. Using the most basic linear regression model, ridge regression, LASSO, etc. we try to make prediction on the positions of the moon, the sun and the planets. We also try to predict the moon phases. In our notebook, we demonstrate how to improve the results by feature engineering. We select the important Fourier features by ordering them to minimize the mean square error of the training set. By using this method, we were able to predict Sun’s daily, hourly altitude successfully (0.005, 8.692 MSE)with only 20 features. 
 
